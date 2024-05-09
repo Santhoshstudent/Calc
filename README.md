@@ -133,7 +133,8 @@ Publish the website in the given URL.
 </html>
 
 ## OUTPUT:
-![image](https://github.com/Santhoshstudent/Calc/assets/145446853/1577dcbb-949e-45d1-a846-5ec6412b556c)
+![Screenshot 2024-05-10 004127](https://github.com/Santhoshstudent/Calc/assets/145446853/78e90787-e346-475f-9ff3-e9e9f221aab5)
+
 
 
 ## RESULT:
